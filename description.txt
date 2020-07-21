@@ -1,0 +1,7 @@
+--lamby by: WilLiam12
+
+This mod is a small server helper, it only has a few commands and a block to learn more about worldscript in the world.
+
+I hope you like it.
+
+
